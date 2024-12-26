@@ -1,0 +1,13 @@
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    border: 3px solid black;
+    margin: 0 0 1rem 0;
+    padding: 3px 7px;
+}
+
+.edit-mode{
+    color: #ccc;
+}
